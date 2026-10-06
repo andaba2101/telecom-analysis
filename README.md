@@ -1,5 +1,5 @@
 # telecom-analysis
-sprint7-final-project
+Sprint 7 | Proyecto 6: Análisis de una empresa de telecomunicaciones (ConnectaTel)
 
 # Objetivo del proyecto
 
